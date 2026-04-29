@@ -11,9 +11,9 @@ NorthPoint's core playbooks, MIT-licensed and installable as Claude / Claude Cod
 
 Install the full stack:
 
-\`\`\`bash
+```bash
 npx skills add jukkablomberg/northpoint
-\`\`\`
+```
 
 #### What NorthPoint does
 
