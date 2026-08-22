@@ -1,15 +1,20 @@
 # Hi, I'm Jukka 👋
 
-I build **AI-native companies** — 11 live internet products, one operator, an AI operating
-system doing the daily work. Founder of [NorthPoint](https://northpoint.fi), ex-CMO of two
-international crypto exchanges (LocalBitcoins, NoOnes), author of two books.
+**One founder. AI-native team. Multiple ventures.**
 
-**The full picture → [jukkablomberg.com](https://jukkablomberg.com)**
+I run an [AI-native venture studio](https://jukkablomberg.com) — 12 live internet products,
+one operator, an AI operating system doing the daily work. The studio is the experiment:
+proving how much one person + AI can build. Founder of [NorthPoint](https://northpoint.fi),
+ex-CMO of two international crypto exchanges (LocalBitcoins, NoOnes).
 
-## What I publish here
+**The full picture → [jukkablomberg.com](https://jukkablomberg.com)** · the build record → [the timeline](https://jukkablomberg.com/timeline)
 
-NorthPoint's core playbooks, MIT-licensed and installable as Claude / Claude Code skills:
+## Research & playbooks on this account
 
+Open research and MIT-licensed playbooks, installable as Claude / Claude Code skills:
+
+- [**state-of-crypto-marketing-2026**](https://github.com/jukkablomberg/state-of-crypto-marketing-2026) — operator-grade, citation-anchored synthesis of how senior crypto marketing leaders run the function in 2026 (report ships Sep 1, 2026)
+- [**sovereign-bitcoin-reserve-monitor**](https://github.com/jukkablomberg/sovereign-bitcoin-reserve-monitor) — a live, open-sourced record of every sovereign state's Bitcoin holdings, tiered and sourced
 - [**mica-marketing-self-audit**](https://github.com/jukkablomberg/mica-marketing-self-audit) — 40-rule EU crypto marketing compliance checklist with a tested AI system prompt
 - [**crypto-cmo-ai-stack**](https://github.com/jukkablomberg/crypto-cmo-ai-stack) — the AI tools + judgment layer for running crypto marketing solo
 
@@ -23,29 +28,23 @@ Most repos on this account are live products:
 
 | Venture | What | Live at |
 |---|---|---|
-| **NorthPoint** | Compliance-grade crypto marketing — audits (MiCA · FCA · GDPR) + fractional CMO | [northpoint.fi](https://northpoint.fi) |
+| **NorthPoint** | Crypto-native growth for ambitious companies — fractional CMO plans, AI-leveraged delivery | [northpoint.fi](https://northpoint.fi) |
 | **CoinBucha** | Bitcoin signal intelligence, MCP-first — built to be read by AI agents | [coinbucha.com](https://coinbucha.com) |
 | **MonitoringRoom** | Prediction-market signal terminal | [monitoringroom.com](https://monitoringroom.com) |
-| **WealthyTec** | 600+ internationally tradable Chinese stocks, decoded | [wealthytec.com](https://wealthytec.com) |
+| **WealthyTec** | 710+ internationally tradable Chinese stocks, decoded | [wealthytec.com](https://wealthytec.com) |
 | **BoomCellar** | Live cap-weighted index of the world's listed wine producers | [boomcellar.com](https://boomcellar.com) |
 
 …plus a lab of smaller experiments → [jukkablomberg.com/ventures](https://jukkablomberg.com/ventures)
 
-## Work with NorthPoint
+## Work with me
 
-Three productized services for crypto, Web3, and AI companies:
+NorthPoint is the studio's commercial arm — hire the operator behind the experiment:
+[plans & pricing →](https://northpoint.fi/pricing)
 
-| Tier | What | From |
-|---|---|---|
-| AI Crypto CMO | Subscription: AI stack + ex-CMO review | €2,500/mo |
-| CMO Operating System | 90-day install of your marketing function | €55,000 |
-| Fractional Crypto CMO | Senior part-time CMO seat | €15,000/mo |
+Speaking, advisory, co-founder & board conversations → [jukkablomberg.com/work-with-me](https://jukkablomberg.com/work-with-me)
 
-[Book an intro call →](https://northpoint.fi)
+## Elsewhere
 
-## Writing
+[jukkablomberg.com](https://jukkablomberg.com) · [LinkedIn](https://linkedin.com/in/jukkab) · [X](https://x.com/JukkaBlomberg)
 
-- Site: [jukkablomberg.com](https://jukkablomberg.com)
-- Substack: [northpointnotes.substack.com](https://northpointnotes.substack.com)
-- LinkedIn: [linkedin.com/in/jukkab](https://linkedin.com/in/jukkab)
-- Books: [*Crypto Curious?*](https://www.amazon.com/dp/9526921534) · [*How to Profit from China*](https://www.amazon.com/gp/product/952936783X/)
+*"The future should belong to the people who build it."*
