@@ -15,6 +15,7 @@ Open research and MIT-licensed playbooks, installable as Claude / Claude Code sk
 
 - [**state-of-crypto-marketing-2026**](https://github.com/jukkablomberg/state-of-crypto-marketing-2026) — operator-grade, citation-anchored synthesis of how senior crypto marketing leaders run the function in 2026 (report ships Sep 1, 2026)
 - [**sovereign-bitcoin-reserve-monitor**](https://github.com/jukkablomberg/sovereign-bitcoin-reserve-monitor) — a live, open-sourced record of every sovereign state's Bitcoin holdings, tiered and sourced
+- [**finnish-bitcoin-reserve**](https://github.com/jukkablomberg/finnish-bitcoin-reserve) — policy whitepaper: Finland's path to a sovereign Bitcoin reserve — operating model, custody, political sequencing (CC-BY 4.0)
 - [**mica-marketing-self-audit**](https://github.com/jukkablomberg/mica-marketing-self-audit) — 40-rule EU crypto marketing compliance checklist with a tested AI system prompt
 - [**crypto-cmo-ai-stack**](https://github.com/jukkablomberg/crypto-cmo-ai-stack) — the AI tools + judgment layer for running crypto marketing solo
 
