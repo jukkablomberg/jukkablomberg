@@ -3,7 +3,7 @@
 **One founder. AI-native team. Multiple ventures.**
 
 I run an [AI-native venture studio](https://jukkablomberg.com) — 12 live internet products,
-one operator, an AI operating system doing the daily work. The studio is the experiment:
+one operator, Portfolio OS doing the daily work. The studio is the experiment:
 proving how much one person + AI can build. Founder of [NorthPoint](https://northpoint.fi),
 ex-CMO of two international crypto exchanges (LocalBitcoins, NoOnes).
 
@@ -13,7 +13,7 @@ ex-CMO of two international crypto exchanges (LocalBitcoins, NoOnes).
 
 Open research and MIT-licensed playbooks, installable as Claude / Claude Code skills:
 
-- [**state-of-crypto-marketing-2026**](https://github.com/jukkablomberg/state-of-crypto-marketing-2026) — operator-grade, citation-anchored synthesis of how senior crypto marketing leaders run the function in 2026 (report ships Sep 1, 2026)
+- [**state-of-crypto-marketing-2026**](https://github.com/jukkablomberg/state-of-crypto-marketing-2026) — operator-grade, citation-anchored synthesis of how senior crypto marketing leaders run the function in 2026 (report publishes 15 September 2026)
 - [**sovereign-bitcoin-reserve-monitor**](https://github.com/jukkablomberg/sovereign-bitcoin-reserve-monitor) — a live, open-sourced record of every sovereign state's Bitcoin holdings, tiered and sourced
 - [**finnish-bitcoin-reserve**](https://github.com/jukkablomberg/finnish-bitcoin-reserve) — policy whitepaper: Finland's path to a sovereign Bitcoin reserve — operating model, custody, political sequencing (CC-BY 4.0)
 - [**mica-marketing-self-audit**](https://github.com/jukkablomberg/mica-marketing-self-audit) — 40-rule EU crypto marketing compliance checklist with a tested AI system prompt
